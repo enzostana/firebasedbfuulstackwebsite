@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "vital-age",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
